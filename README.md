@@ -35,7 +35,7 @@ El usuario puede seleccionar el atributo a ordenar (precio o fecha), el tipo de 
 ## Instalación y Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/metodos-ordenacion-java.git
+   git clone https://github.com/Thaisncp/metodos-ordenacion-java.git
 2. Abrir el proyecto en NetBeans 22.
 
 3. Compilar y ejecutar desde la clase principal.
