@@ -22,7 +22,7 @@ El usuario puede seleccionar el atributo a ordenar (precio o fecha), el tipo de 
 ---
 
 ## Captura de Pantalla
-![Ventana principal](./img/screenshot.png)
+![Ventana principal](./img/Screenshot.png)
 
 ---
 
